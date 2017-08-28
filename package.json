@@ -1,5 +1,5 @@
 {
-  "name": "co-async-migrator",
+  "name": "co-async-migrate",
   "version": "0.1.0",
   "description": "Migrate from co/yield to async/await",
   "main": "index.js",
