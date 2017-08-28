@@ -1,6 +1,6 @@
 {
   "name": "co-async-migrate",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Migrate from co/yield to async/await",
   "main": "index.js",
   "bin": {
