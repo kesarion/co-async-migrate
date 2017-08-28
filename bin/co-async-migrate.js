@@ -27,7 +27,7 @@ process.argv.forEach((arg, i) => {
 
 if (help) {
     return console.log(`
-    Migrate files in path from co/yield to co/async.
+    Migrate files in path from co/yield to async/await.
     
     Usage:
     co-async-migrate /path
