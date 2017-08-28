@@ -3,6 +3,9 @@
   "version": "0.1.1",
   "description": "Migrate from co/yield to async/await",
   "main": "index.js",
+  "bin": {
+    "co-async-migrate": "./index"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
