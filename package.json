@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kesarion/co-async-migrator.git"
+    "url": "git+https://github.com/kesarion/co-async-migrate.git"
   },
   "keywords": [
     "co",
     "async",
-    "migrator",
+    "migrate",
     "migrate",
     "node",
     "javascript",
@@ -22,9 +22,9 @@
   "author": "Alexandru Sfirlogea",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kesarion/co-async-migrator/issues"
+    "url": "https://github.com/kesarion/co-async-migrate/issues"
   },
-  "homepage": "https://github.com/kesarion/co-async-migrator#readme",
+  "homepage": "https://github.com/kesarion/co-async-migrate#readme",
   "dependencies": {
     "glob": "^7.1.2"
   }
